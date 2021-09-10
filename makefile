@@ -2,5 +2,4 @@ README.md:
 	touch README.md
 	echo "whatever" > README.md
 	 
-
-Jacek is sexy
+ echo "hello test"
